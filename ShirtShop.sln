@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altairis.ShirtShop.Data", "Altairis.ShirtShop.Data\Altairis.ShirtShop.Data.csproj", "{159BDDFF-9FBB-4DE2-8DD1-83C61941535B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altairis.ShirtShop.Web", "Altairis.ShirtShop.Web\Altairis.ShirtShop.Web.csproj", "{44253332-DA5B-4B19-A716-3E10741A943E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A95EC144-47F8-4478-8339-AA06FDD9D205}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159BDDFF-9FBB-4DE2-8DD1-83C61941535B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159BDDFF-9FBB-4DE2-8DD1-83C61941535B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159BDDFF-9FBB-4DE2-8DD1-83C61941535B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159BDDFF-9FBB-4DE2-8DD1-83C61941535B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44253332-DA5B-4B19-A716-3E10741A943E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44253332-DA5B-4B19-A716-3E10741A943E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44253332-DA5B-4B19-A716-3E10741A943E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44253332-DA5B-4B19-A716-3E10741A943E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5500177F-F44F-4136-BE0C-2203DE5E1A3C}
+	EndGlobalSection
+EndGlobal
